@@ -171,10 +171,4 @@ The application is built using a component-based architecture to improve code re
 
 **Lasya**
 
-GitHub: https://github.com/your-username
-
----
-
-## 📄 License
-
-This project is created for learning purposes and portfolio demonstration.
+GitHub: https://github.com/Lasya098
